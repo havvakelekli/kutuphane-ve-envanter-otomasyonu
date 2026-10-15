@@ -1,0 +1,18 @@
+# Node / Frontend
+**/node_modules/
+**/dist/
+
+# Java / Maven Backend
+**/target/
+*.class
+*.jar
+*.war
+
+# IDE Ayarlari
+**/.idea/
+**/.vscode/
+*.iml
+.DS_Store
+
+# Gecici dosyalar
+*.log
